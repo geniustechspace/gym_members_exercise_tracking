@@ -19,4 +19,5 @@ Water_Intake (liters): Daily water intake during workouts.<br><br>
 Workout_Frequency (days/week): Number of workout sessions per week.<br><br>
 Experience_Level: Level of experience, from beginner (1) to expert (3).<br><br>
 BMI: Body Mass Index, calculated from height and weight.<br><br>
-This dataset is ideal for data scientists, health researchers, and fitness enthusiasts interested in studying exercise habits, modeling fitness progression, or analyzing the relationship between demographic and physiological data. With a wide range of variables, it offers insights into how different factors affect workout intensity, endurance, and overall health.
+This dataset is ideal for data scientists, health researchers, and fitness enthusiasts interested in studying exercise habits, modeling fitness progression, or analyzing the relationship between demographic and physiological data. With a wide range of variables, it offers insights into how different factors affect workout intensity, endurance, and overall health. <br><br>
+link to dataset on kaggle https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
